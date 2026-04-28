@@ -24,3 +24,17 @@
 
 7. **Strategi Optimasi dan Menjaga Fungsionalitas**
    Strategi optimasi yang dilakukan setelah analisis biasanya mencakup perbaikan pada level database dan kode program. Pada sisi database, optimasi dapat dilakukan dengan menambahkan index, memperbaiki query, atau menghindari masalah N+1 menggunakan JOIN FETCH. Pada sisi kode, optimasi dapat dilakukan dengan penggunaan struktur data yang lebih efisien serta menghindari operasi yang tidak perlu. Untuk memastikan bahwa perubahan tidak mempengaruhi fungsionalitas aplikasi, dilakukan unit testing sebelum dan sesudah optimasi. Selain itu, regression testing menggunakan JMeter juga dapat digunakan untuk memastikan bahwa peningkatan performa tidak mengubah perilaku sistem secara keseluruhan.
+
+
+
+-----
+**(all-student-name)**
+   <img width="1600" height="1036" alt="image" src="https://github.com/user-attachments/assets/09f342a4-31a6-49c5-b115-55f9c0e9c985" />
+
+
+-----
+**(highest-gpa)**
+<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/5c65d034-dbf3-4bff-ad15-9cb2e51c70ad" />
+
+
+
