@@ -1,3 +1,9 @@
+**Is there an improvement from JMeter measurements?**
+Setelah proses profiling dan optimasi performa selesai dilakukan, pengujian ulang menggunakan JMeter menunjukkan adanya peningkatan performa dibandingkan pengujian pertama. Sebelum optimasi, aplikasi memiliki waktu respons yang lebih tinggi, throughput yang lebih rendah, serta beberapa proses yang kurang efisien akibat query database yang tidak optimal dan penggunaan kode yang kurang efektif. Setelah dilakukan analisis menggunakan IntelliJ Profiler dan perbaikan pada bagian yang menjadi bottleneck, seperti optimasi query, penggunaan struktur data yang lebih efisien, dan pengurangan proses yang tidak diperlukan, hasil pengujian kedua menunjukkan waktu respons yang lebih cepat, throughput yang meningkat, serta performa aplikasi yang lebih stabil. Dari hasil tersebut dapat disimpulkan bahwa terdapat peningkatan yang signifikan setelah optimasi, dan kombinasi antara JMeter untuk performance testing serta IntelliJ Profiler untuk profiling sangat efektif dalam membantu menemukan masalah dan meningkatkan performa aplikasi secara lebih tepat sasaran.
+
+-----
+
+
 1. **Performance Testing (JMeter) vs Profiling (IntelliJ Profiler)**
    Perbedaan utama antara performance testing menggunakan JMeter dan profiling menggunakan IntelliJ Profiler terletak pada pendekatan analisis yang digunakan. JMeter merupakan metode external/black-box testing yang menilai performa aplikasi dari sisi luar tanpa melihat implementasi kode. Fokusnya adalah pada bagaimana sistem berperilaku di bawah beban, seperti jumlah pengguna, waktu respons, throughput, dan tingkat error. Sebaliknya, IntelliJ Profiler merupakan metode internal/white-box analysis yang menganalisis aplikasi dari dalam saat runtime. Profiler ini digunakan untuk memahami secara detail bagian kode, proses, atau query yang menyebabkan penurunan performa.
 
