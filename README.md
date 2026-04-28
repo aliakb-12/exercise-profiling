@@ -32,9 +32,16 @@
    <img width="1600" height="1036" alt="image" src="https://github.com/user-attachments/assets/09f342a4-31a6-49c5-b115-55f9c0e9c985" />
 
 
+   <img width="1600" height="643" alt="image" src="https://github.com/user-attachments/assets/a36c5079-ba1c-4778-9cbc-840b0e9e78ec" />
+
+
+
 -----
 **(highest-gpa)**
 <img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/5c65d034-dbf3-4bff-ad15-9cb2e51c70ad" />
+
+
+<img width="1600" height="451" alt="image" src="https://github.com/user-attachments/assets/21db8b7c-970a-491f-83f4-6642a9626f53" />
 
 
 
